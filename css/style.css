@@ -1,0 +1,46 @@
+/*body{
+    font-family: 'Poppins', sans-serif;
+}*/
+body {
+  margin: 0;
+}
+.topBanner {
+  display: flex;
+  width: 100%;
+}
+.topLeftHalf {
+  width: 50%;
+  padding-left: 8%;
+  padding-top: 100px;
+}
+.topRightHalf {
+  width: 50%;
+}
+.topRightHalf img {
+  width: 80%;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+  line-height: 30px;
+}
+#skip {
+  color: orange;
+}
+.topBanner p {
+  color: #828282;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  padding: 10px 25px;
+  background: linear-gradient(88.33deg, #fba24f -7.64%, #ff1e1e 145.94%);
+  border-radius: 80px;
+  box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+}
